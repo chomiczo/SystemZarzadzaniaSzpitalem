@@ -1,0 +1,1 @@
+System zarządzania szpitalem to aplikacja na system operacyjny windows, dzięki, której można w każy sposób modyfikować jako administrator konta innych użytkowników tj. edycja kont lekarzy, pielęgniarek, przydzielanie dyżurów itp.
